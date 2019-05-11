@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "image": "charizard.jpg"
+    },
+    {
+      "id": 2,
+      "image": "Deoxys.jpg"    
+    },
+    {
+      "id": 3,
+      "image": "Gengar.jpg"
+    },
+    {
+      "id": 4,
+      "image": "Lugia.jpg" 
+    },
+    {
+      "id": 5,
+      "image": "Mewtwo.jpg"
+    },
+    {
+      "id": 6,
+      "image": "Pikachu.jpg"
+    },
+    {
+      "id": 7,
+      "image": "Rayquaza.jpg"
+    },
+    {
+      "id": 8,
+      "image": "Suicune.jpg"
+    },
+    {
+      "id": 9,
+      "image": "Totodile.jpg"
+    },
+    {
+      "id": 10,
+      "image": "Typholosion.jpg"
+    },
+    {
+      "id": 11,
+      "image": "Umbreon.jpg"
+    },
+    {
+      "id": 12,
+      "image": "Zapdos.jpg"
+    }
+  ]

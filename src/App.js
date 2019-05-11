@@ -1,9 +1,9 @@
 import React, { Component } from "react";
-import Navbar from "./components./Navbar";
-import Jumbotron from "./component./Jumbotron";
-import Card from "./component./Card";
-import Footer from "./component./Footer";
-import pokemon from "pokemon.json";
+import Navbar from "./components/Navbar";
+import Jumbotron from "./components/Jumbotron";
+import PokemonCard from "./components/Card/card";
+import Footer from "./components/Footer";
+import pokemon from "./pokemon.json";
 
 class App extends Component {
   state = {
@@ -67,7 +67,7 @@ render() {
       <Jumbotron />
       <div className="wrapper">
         {this.state.pokemon.map(pokemon => (
-          <Card
+          <PokemonCard
             imageClick={this.imageClick}
             id={pokemon.id}
             key={pokemon.id}
